@@ -3,14 +3,14 @@ vagrant-boilerplate
 
 VAGRANT SETUP WITH PUPPET AND RVM
 
-Here's a quick start guide for using Vagrant to quickly bootstrap a VirtualBox virtual machine with and Puppet and RVM! 
+Here's a quick start guide for using Vagrant to quickly bootstrap a VirtualBox virtual machine with Puppet and RVM! 
 <cut>
 
 CHECK OUT THE GISTFLOW: http://gistflow.com/posts/777-vagrant-setup-with-puppet-and-rvm
 
 Download & install Vagrant (currently using Vagrant v1.1.4): http://downloads.vagrantup.com/tags/v1.1.4
 
-Download & install virtual box: https://www.virtualbox.org/wiki/Downloads
+Download & install VirtualBox: https://www.virtualbox.org/wiki/Downloads
 
 Here's a short overview of the commands involved in getting Vagrant going. 
 
